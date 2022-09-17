@@ -5,4 +5,6 @@ when a new example becomes available.
 
  * ***HelloWorld***: a simple Hello World application that absolutely positions text elements.
  * ***HelloWorldFXML***: the same example as HelloWorld, recreated using FXML and css.
+ * ***PushCounter***: a basic example of event handling.
+
  
