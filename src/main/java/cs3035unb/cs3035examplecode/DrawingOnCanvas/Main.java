@@ -66,8 +66,10 @@ public class Main extends Application {
 
         @Override
         public void handle(MouseEvent event) {
+            g.save();
             g.setFill(Color.BLACK);
             g.fillOval(event.getX() - 5, event.getY() - 5, 10, 10);
+            g.restore();
         }
     }
 

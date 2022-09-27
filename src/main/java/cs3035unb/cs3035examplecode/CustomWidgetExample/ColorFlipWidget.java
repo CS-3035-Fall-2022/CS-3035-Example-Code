@@ -40,7 +40,7 @@ public class ColorFlipWidget extends StackPane {
             @Override
             public void handle(MouseEvent event) {
                 counter.set(counter.get() + 1);
-                updateColor();
+                //updateColor();
             }
         });
 
