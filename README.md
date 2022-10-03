@@ -10,5 +10,6 @@ when a new example becomes available.
  * ***StyleOptionsWithCheckBoxes***: an example of using checkbox widgets and handling events when they are selected.
  * ***DrawingOnCanvas***: an example of using a canvas object to draw an image.
  * ***CustomWidgetExample***: an example of create a widget class using the canvas.
+ * ***MVCSquareDrawing***: initial example demonstrating how to implement MVC architecture.
 
  

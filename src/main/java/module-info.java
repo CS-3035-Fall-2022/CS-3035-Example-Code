@@ -11,4 +11,5 @@ module cs3035unb.cs3035examplecode {
     exports cs3035unb.cs3035examplecode.DrawingOnCanvas;
     exports cs3035unb.cs3035examplecode.StyleOptionsWithCheckBoxes;
     exports cs3035unb.cs3035examplecode.MVCSqaureDrawing;
+    exports cs3035unb.cs3035examplecode.CustomLayoutExample;
 }
