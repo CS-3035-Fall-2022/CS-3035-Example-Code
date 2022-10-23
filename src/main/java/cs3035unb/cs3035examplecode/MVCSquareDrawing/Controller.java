@@ -1,4 +1,4 @@
-package cs3035unb.cs3035examplecode.MVCSqaureDrawing;
+package cs3035unb.cs3035examplecode.MVCSquareDrawing;
 
 import javafx.event.EventHandler;
 import javafx.scene.input.MouseButton;

@@ -26,11 +26,13 @@ public class MyLayoutPane extends Pane {
 //            n.prefWidth(100);
 //            n.prefHeight(100);
 
+            n.autosize();
+
             //relocate vs translate:
             // layout algorithms should use relocate by convention
             // application programmers would use translate
             n.relocate(this.getWidth() - n.getBoundsInParent().getWidth(),this.getHeight() - n.getBoundsInParent().getHeight());
-            n.translateXProperty().set(-100);
+            //n.translateXProperty().set(-100);
 
         }
         System.out.println(count++);
